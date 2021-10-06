@@ -3,14 +3,18 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char** argv) {
-	
-	//variables del tamaño de pantalla
+	//UN COMENTARIO DESDE GIT-HUB POR AARON VELASCO
+	//aaa
+	//aa
+	//aa
+	//aa
+	//variables del tamaÃ±o de pantalla
     int TampX;
     int TampY;
     //Variables del objeto mostrado en coordenadas
     float coordX;
     float coordY;
-    //Variables del tamaño del objeto
+    //Variables del tamaÃ±o del objeto
     float tamX;
     float tamY;
     //Variables de coordenadas superiores
