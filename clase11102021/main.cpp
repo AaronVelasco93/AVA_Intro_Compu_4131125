@@ -3,6 +3,15 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
+//Mi primera Funcion 
+int sumaDatos (int a, int b){
+
+	int resultado;
+		resultado= a+b;
+		
+return resultado;
+}
+
 
 
 
@@ -26,7 +35,7 @@ int main(int argc, char** argv) {
 		scanf("%d",&iDato2); //entrada de dato tipo numerico por teclado Dato2
 		
 	//Operacion
-	iResultado=iDato1+iDato2;
+	iResultado=sumaDatos(iDato1,iDato2);
 	
 	
 	//Imprimir el resultado
